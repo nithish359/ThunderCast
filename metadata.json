@@ -1,0 +1,7 @@
+{
+  "name": "THUNDER CAST AI",
+  "description": "Tactical AI/ML thunderstorm and lightning nowcasting workstation with live radar, GLM sensors, danger zone push alerts, and real-time meteorological tracking for Tamil Nadu, Kerala, and global sectors.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
